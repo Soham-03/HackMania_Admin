@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "950215716819",
+    "project_id": "hackmania-a64ff",
+    "storage_bucket": "hackmania-a64ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950215716819:android:cac14d847ffaf587f60926",
+        "android_client_info": {
+          "package_name": "com.example.hackmania"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950215716819-7ka105o0cuail01bp75dgu9asr6cu2hb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hackmania",
+            "certificate_hash": "74e9a6df7e3441d61848f3543e070bc14995cba6"
+          }
+        },
+        {
+          "client_id": "950215716819-q023fsb5bnod69qfqeabo7kces2ngcf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIFQLLTMp6Dzen_gvyjiYsDVc3xTpFHeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950215716819-q023fsb5bnod69qfqeabo7kces2ngcf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950215716819:android:233b76a164bf0923f60926",
+        "android_client_info": {
+          "package_name": "com.example.hackmania_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950215716819-q023fsb5bnod69qfqeabo7kces2ngcf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIFQLLTMp6Dzen_gvyjiYsDVc3xTpFHeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950215716819-q023fsb5bnod69qfqeabo7kces2ngcf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
